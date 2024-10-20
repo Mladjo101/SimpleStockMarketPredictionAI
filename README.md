@@ -1,1 +1,1 @@
-pip install the necessary
+pip install the necessary packages
